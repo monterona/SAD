@@ -19,6 +19,8 @@
 | 7. Legislación y normas | RA7 | 1 | 3 |
 | **Total** | **RA1–RA7** | **14** | **42** |
 
+[# Anexo: relación entre índice, resultados de aprendizaje y criterios de evaluación](anexos/relacion_indice_ra_ce.md)
+
 # Primer bloque: fundamentos y seguridad activa
 
 ## Sesión 1 — 21 de septiembre
