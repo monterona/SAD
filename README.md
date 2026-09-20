@@ -25,7 +25,7 @@
 
 ## Sesión 1 — 21 de septiembre
 
-**[Unidad 1. Fundamentos de seguridad — RA1](u1/manual_alumnado-fundamentos_pautas_seguridad_informática.md)**
+**Unidad 1: Fundamentos y pautas de seguridad informáticas.**
 
 - La información y los servicios como activos.
 - Confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad.
