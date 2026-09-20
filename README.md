@@ -25,27 +25,38 @@
 
 ## Sesión 1 — 21 de septiembre
 
-**Unidad 1: Fundamentos y pautas de seguridad informáticas.**
+**Unidad 1: Fundamentos y pautas de seguridad informática — RA1**
+
+**Criterios de evaluación trabajados:** RA1.a, RA1.b, RA1.c, RA1.d y RA1.h.
 
 - La información y los servicios como activos.
 - Confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad.
 - Activos, amenazas, vulnerabilidades, riesgos y controles.
 - Clasificación de amenazas físicas, lógicas y humanas.
 - Introducción al análisis de riesgos.
+- Clasificación de controles físicos, lógicos y organizativos.
+- Funciones preventiva, detectiva, correctiva y recuperadora de los controles.
 
-**Actividad práctica:**
+**Actividades prácticas:**
 
-Inventario de activos y elaboración de una matriz sencilla de riesgos para una empresa ficticia.
+1. **Caso Clínica Sur:** inventario de al menos ocho activos y redacción de cuatro escenarios que relacionen amenaza, vulnerabilidad, activo e impacto.
+2. **Matriz de riesgos:** valoración de la probabilidad y el impacto mediante una escala de 1 a 3, cálculo del nivel de riesgo y propuesta de tratamiento.
+3. **Clasificación de controles:** identificación del tipo y la función principal de siete controles de seguridad.
 
-**Evidencia evaluable:**
+**Evidencias evaluables:**
 
-Tabla de activos, amenazas, vulnerabilidades, impacto y medidas de protección.
+- Inventario con activo, responsable, objetivo de seguridad prioritario, dependencia y justificación.
+- Cuatro escenarios de riesgo redactados de forma causal.
+- Matriz priorizada con probabilidad, impacto, nivel y tratamiento propuesto.
+- Clasificación razonada de controles físicos, lógicos u organizativos y de su función.
 
 ---
 
 ## Sesión 2 — 28 de septiembre
 
-**Unidad 1. Protección de la información — RA1**
+**Unidad 1: Fundamentos y pautas de seguridad informática — RA1**
+
+**Criterios de evaluación trabajados:** RA1.e, RA1.f, RA1.g y RA1.i.
 
 - Seguridad física y ambiental.
 - Control de acceso físico y sistemas de alimentación ininterrumpida.
@@ -53,15 +64,29 @@ Tabla de activos, amenazas, vulnerabilidades, impacto y medidas de protección.
 - Políticas de contraseñas y autenticación multifactor.
 - Fundamentos de criptografía.
 - Copias de seguridad, restauración y medios de almacenamiento.
-- Auditoría y análisis forense básico.
+- Funciones hash y comprobación de la integridad.
+- Actuación inicial ante incidentes y análisis forense básico.
+- Preservación de evidencias y cadena de custodia.
 
-**Actividad práctica:**
+**Actividades prácticas:**
 
-Diseño de una política de contraseñas y de una estrategia de copias de seguridad aplicando la regla 3-2-1.
+4. **Política de acceso:** redacción de ocho a diez reglas verificables sobre credenciales, autenticación multifactor, cuentas administrativas, recuperación y baja de usuarios.
+5. **Integridad, copias y restauración:** cálculo y comparación de hashes SHA-256, modificación controlada de un archivo y comprobación de una restauración.
+6. **Mini caso forense:** valoración de actuaciones ante un posible ransomware, propuesta de una secuencia inicial y cumplimentación de una cadena de custodia.
 
-**Evidencia evaluable:**
+**Evidencias evaluables:**
 
-Política de seguridad y procedimiento básico de copia y restauración.
+- Política de acceso con reglas y justificaciones.
+- Registro de hashes, interpretación de los resultados y evidencia de la restauración.
+- Valoración razonada de las actuaciones del caso forense.
+- Secuencia inicial de respuesta y ficha de cadena de custodia.
+
+### Documentación de la unidad 1
+
+- [Manual del alumnado](u1/SAD-unidad_1-manual_alumnado.md).
+- [Resumen del alumnado](u1/SAD-unidad_1-resumen_alumnado.md).
+- **Cuaderno de actividades del alumnado:** reúne las seis actividades anteriores, sin soluciones, con tablas, casillas y espacios para responder.
+- **Guía docente y soluciones:** conserva la misma numeración, los productos entregables y la relación con los criterios de evaluación.
 
 ---
 
